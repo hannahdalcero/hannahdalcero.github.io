@@ -1,0 +1,98 @@
+body {
+	background: #110000 ;
+    font-family: "operetta-12", serif;
+    font-weight: 400;
+    line-height: 1.5em;
+    font-style: normal;
+
+    text-align: justify;
+    color: rgb(167, 167, 167);
+    font-size: 30px;
+    margin: 20px 0;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+em {
+
+    color: rgb(255, 255, 255);
+
+}
+
+img {
+	max-width: 100% ;
+}
+
+h1 {
+	font-family: "operetta-12", serif;
+    font-weight: 400;
+    text-align: right;
+    line-height: 1.1em;
+    font-size: 600%;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    text-align: right;
+
+    margin-right: 0%;
+
+}
+
+h2 {
+    font-family: "operetta-12", serif;
+    font-weight: 400;
+    line-height: 1.1em;
+    font-size: 400%;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    text-align: right;
+
+    margin-right: 0%;
+
+}
+
+h3 {
+    font-family: "operetta-12", serif;
+    font-weight: 400;
+    line-height: 1.2em;
+    font-size: 200%;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+    text-align: right;
+
+    margin-right: 0%;
+    padding: 0px 0;
+
+
+}
+h4 {
+    font-family: "operetta-12", serif;
+    font-weight: 400;
+    line-height: 1.5em;
+    font-size: 100%;
+    font-style: normal;
+    color: rgb(241, 83, 255);
+    text-align: right;
+
+
+}
+
+footer {
+    padding-top: 40%;
+	text-align: right ;
+	clear: both ;
+}
+
+a:link, a:visited {
+    color: rgb(255, 255, 255); /* Or any color you prefer */
+}
+
+a.footnote-backref{
+    font-size: 15px;
+    color:aqua;
+}
+
+.footnotes {
+    padding-top: 40%;
+    font-size: 15px;
+    color:aqua;
+}
