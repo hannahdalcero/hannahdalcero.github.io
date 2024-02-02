@@ -8,6 +8,20 @@
     <language>en-us</language>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Inhalt</title>
+      <link>https://example.org/inhalt/</link>
+      <pubDate>Fri, 02 Feb 2024 14:23:23 +0100</pubDate>
+      <guid>https://example.org/inhalt/</guid>
+      <description>Inhalt Der Text lässt sich so lesen wie es gefällt und interessiert. Deshalb steht das Inhaltsverzeichnis auch nicht am Anfang.&#xA;persönliches: Ich&#xA;Loslassen&#xA;die Harfe&#xA;meine Arbeit&#xA;der Prozess&#xA;der andere Prozess&#xA;Raum einnehmen&#xA;loslassen&#xA;Hannah_Heartbreak&#xA;theoretisches: Performativity&#xA;Soundstudies&#xA;Sprache und Stimme&#xA;Klang als Medium&#xA;fluiditaet&#xA;binaritaet&#xA;Glossar:\ Gender\&#xA;Sex\&#xA;Queer\&#xA;Trans\&#xA;Judith Butler&#xA;hypertext&#xA;Gender Identity</description>
+    </item>
+    <item>
+      <title>Malaherba</title>
+      <link>https://example.org/malaherba/</link>
+      <pubDate>Fri, 02 Feb 2024 13:17:42 +0100</pubDate>
+      <guid>https://example.org/malaherba/</guid>
+      <description>Mala Herba Zosia Hołubowska, ist eine genderqueer-nonbinary Klangkünstler*in, Musiker*in und Aktivist*in aus Polen. Zosia Hołubowska sah sich in der polnischen Musikszene nicht repräsentiert und schuf daraufhin eine alternative Persönlichkeit – Mala Herba.&#xA;Die Arbeit von Mala Herba überwindet traditionelle Grenzen in Musik und Aktivismus in dem der Diskurs der polnischen Gesellschaft in Frage gestellt wird, in dem Mala Sex-Positivität mit Kräuterkunde und Dark Wave Synthlines mischt.&#xA;The queer sound is more of a question of approach, rather than concrete sound quality.</description>
+    </item>
+    <item>
       <title>DieHarfe</title>
       <link>https://example.org/dieharfe/</link>
       <pubDate>Sat, 06 Jan 2024 18:22:30 +0100</pubDate>
@@ -82,7 +96,7 @@
       <link>https://example.org/fazit/</link>
       <pubDate>Mon, 01 Jan 2024 16:02:45 +0100</pubDate>
       <guid>https://example.org/fazit/</guid>
-      <description>Fazit\ Die Faszination der Reizüberflutung, die Schönheit des überkomprimierten Tiktokhits, die Gabber Kick und der Dubstep wub.&#xA;Die Faszination für mich liegt in der Einfachheit und dem loslassen.&#xA;Der Midicontroller ist das Medium oder so, naja zumindest das Interface.&#xA;Die Verknüpfung oder das Zusammenspiel zwischen Mensch(also mir als Performerin) und der Maschine(meinen Gefühlen und Gedanken in Form eines Audiofiles) muss so simpel wie möglich sein, nichts soll diesen Austausch stören. Dafür nehme ich auch gerne die 127 begrenzten Abstufungen des Ausdrucks in Kauf.</description>
+      <description>Fazit Die Faszination der Reizüberflutung, die Schönheit des überkomprimierten Tiktokhits, die Gabber Kick und der Dubstep wub.&#xA;Die Faszination für mich liegt in der Einfachheit und dem loslassen.&#xA;Der Midicontroller ist das Medium oder so, naja zumindest das Interface.&#xA;Die Verknüpfung oder das Zusammenspiel zwischen Mensch(also mir als Performerin) und der Maschine(meinen Gefühlen und Gedanken in Form eines Audiofiles) muss so simpel wie möglich sein, nichts soll diesen Austausch stören. Dafür nehme ich auch gerne die 127 begrenzten Abstufungen des Ausdrucks in Kauf.</description>
     </item>
     <item>
       <title>Andererprozess</title>
@@ -110,7 +124,7 @@
       <link>https://example.org/meinearbeit/</link>
       <pubDate>Mon, 01 Jan 2024 16:00:08 +0100</pubDate>
       <guid>https://example.org/meinearbeit/</guid>
-      <description>und meine Arbeit? Während den letzten vier Jahren habe ich mich vor allem ausprobiert und viele kleine Projekte angefangen. Einige habe ich mitgenommen, andere sind versandet&amp;hellip; einige wurden ausserhalb des Schulkontextes gezeigt, andere blieben in diesem Ramen. Bin ja auch noch jung – was es irgendwie auch etwas seltsam macht über die letzten Jahre zu schreiben als wäre ich vierzig.&#xA;dennoch hier eine chaotische Liste:&#xA;[Verschiedenste Stücke für Harfe] -&amp;gt; mp3 Saiteninstrument mit Live-Elektronik, HKB Lost and Found - Gruppenausstellung Willisau LU Nacht - Performance mit Lena Käsermann, Kunsthalle Bern CD40106 - Skulpturen aus Messing, Buffet Nord Amorph - Videoarbeit, HKB Silicon Garden - Klangskulptur/Netzwerk, HKB Cauchemar - Stück für Harfe mit Live-elektronik, HKB Glanzlicht - Kammermusikstück für Stimme, Querflöte und Harfe, HKB Spätstil - Drum/Noise Duo mit Severin Rusch not2goodnot2bad - Performance Piece/Label/Dj/Konzept mit Noah Reusser Hannah Heartbreak - Harsch noise/broken beats Projekt [hannah heartbreak CRTTR #6] (/assets/hannah heartbreak CRTTR #6 - Radio Bollwerk - 25.</description>
+      <description>und meine Arbeit? Während den letzten vier Jahren habe ich mich vor allem ausprobiert und viele kleine Projekte angefangen. Einige habe ich mitgenommen, andere sind versandet&amp;hellip; einige wurden ausserhalb des Schulkontextes gezeigt, andere blieben in diesem Ramen. Bin ja auch noch jung – was es irgendwie auch etwas seltsam macht über die letzten Jahre zu schreiben als wäre ich vierzig.&#xA;dennoch hier eine chaotische Liste:&#xA;[Verschiedenste Stücke für Harfe] -&amp;gt; mp3 Saiteninstrument mit Live-Elektronik Nacht - Performance mit Lena Käsermann, Kunsthalle Bern CD40106 Amorph - Videoarbeit, HKB Silicon Garden Cauchemar - Stück für Harfe mit Live-elektronik, HKB Glanzlicht - Kammermusikstück für Stimme, Querflöte und Harfe, HKB Spätstil - Drum/Noise Duo mit Severin Rusch not2goodnot2bad - Performance Piece/Label/Dj/Konzept mit Noah Reusser Hannah Heartbreak |.</description>
     </item>
     <item>
       <title>Loslassen</title>
@@ -180,7 +194,7 @@
       <link>https://example.org/fluiditaet/</link>
       <pubDate>Mon, 01 Jan 2024 15:54:47 +0100</pubDate>
       <guid>https://example.org/fluiditaet/</guid>
-      <description>fluiditaet Dadurch das anerkannt wird das &amp;ldquo;Gender&amp;rdquo; fluide, und ein gesellschaftliches Konstrukt ist, wird die Binarität der Geschlechter und die daraus folgende Ordnung der Gesellschaft zwangsläufig in Frage gestellt. Die Zugehörigkeit &amp;ldquo;Frau&amp;rdquo; und &amp;ldquo;Mann&amp;rdquo; weicht den begriffen &amp;ldquo;feminin&amp;rdquo; und &amp;ldquo;maskulin&amp;rdquo;, es entsteht ein Spektrum auf dem sich das persönliche Empfinden verordnen lässt. Zugleich entsteht die Möglichkeit die hegemoniale Ordnung in zwei Geschlechter zu stören, zu hinterfragen, zu &amp;ldquo;queeren” durch Verhalten und Ausdruck.</description>
+      <description>fluiditaet Dadurch das anerkannt wird das Gender fluide, und ein gesellschaftliches Konstrukt ist, wird die Binarität der Geschlechter und die daraus folgende Ordnung der Gesellschaft zwangsläufig in Frage gestellt. Die Zugehörigkeit &amp;ldquo;Frau&amp;rdquo; und &amp;ldquo;Mann&amp;rdquo; weicht den begriffen &amp;ldquo;feminin&amp;rdquo; und &amp;ldquo;maskulin&amp;rdquo;, es entsteht ein Spektrum auf dem sich das persönliche Empfinden verordnen lässt. Zugleich entsteht die Möglichkeit die hegemoniale Ordnung in zwei Geschlechter zu stören, zu hinterfragen, zu &amp;ldquo;queeren” durch Verhalten und Ausdruck.</description>
     </item>
     <item>
       <title>Perfomativity</title>
@@ -201,7 +215,7 @@
       <link>https://example.org/einleitung/</link>
       <pubDate>Mon, 01 Jan 2024 15:45:03 +0100</pubDate>
       <guid>https://example.org/einleitung/</guid>
-      <description>Einleitung\ wie äussert sich &amp;ldquo;Gender expression&amp;rdquo; in Klang(kunst) Als Transfrau und Klangkünstlerin hat sich mein Erlebnis der Gesellschaft seit meinem Coming-out radikal verändert. Durch Begegnungen, Erlebnisse, übergriffiges Verhalten, ein verändertes &amp;ldquo;gelesen&amp;rdquo; werden und vor allem durch die Auseinandersetzung mit mir und meinem Körper hat sich mein Interesse an Klang als künstlerisches und zugleich politisches Medium radikal verändert. Viele Prozesse werden vermutlich nie abgeschlossen sein – ein sich ständig veränderndes Umfeld fordert ein ständiges Hinterfragen von Sichtweisen und Perspektiven.</description>
+      <description>Einleitung wie äussert sich &amp;ldquo;Gender expression&amp;rdquo; in Klang(kunst) Als Transfrau und Klangkünstlerin hat sich mein Erlebnis der Gesellschaft seit meinem Coming-out radikal verändert. Durch Begegnungen, Erlebnisse, übergriffiges Verhalten, ein verändertes &amp;ldquo;gelesen&amp;rdquo; werden und vor allem durch die Auseinandersetzung mit mir und meinem Körper hat sich mein Interesse an Klang als künstlerisches und zugleich politisches Medium radikal verändert. Viele Prozesse werden vermutlich nie abgeschlossen sein – ein sich ständig veränderndes Umfeld fordert ein ständiges Hinterfragen von Sichtweisen und Perspektiven.</description>
     </item>
   </channel>
 </rss>
