@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.org/literatur/</loc>
+    <lastmod>2024-02-14T13:37:08+01:00</lastmod>
+  </url><url>
+    <loc>https://example.org/lucasoudant/</loc>
+    <lastmod>2024-02-13T17:34:08+01:00</lastmod>
+  </url><url>
     <loc>https://example.org/inhalt/</loc>
     <lastmod>2024-02-02T14:23:23+01:00</lastmod>
   </url><url>
@@ -10,12 +16,6 @@
   </url><url>
     <loc>https://example.org/dieharfe/</loc>
     <lastmod>2024-01-06T18:22:30+01:00</lastmod>
-  </url><url>
-    <loc>https://example.org/beanspruchungvonraum/</loc>
-    <lastmod>2024-01-06T12:43:32+01:00</lastmod>
-  </url><url>
-    <loc>https://example.org/raum/</loc>
-    <lastmod>2024-01-06T12:43:14+01:00</lastmod>
   </url><url>
     <loc>https://example.org/sprache/</loc>
     <lastmod>2024-01-01T23:05:02+01:00</lastmod>
@@ -34,9 +34,6 @@
   </url><url>
     <loc>https://example.org/hypertext/</loc>
     <lastmod>2024-01-01T16:03:22+01:00</lastmod>
-  </url><url>
-    <loc>https://example.org/glossar/</loc>
-    <lastmod>2024-01-01T16:03:07+01:00</lastmod>
   </url><url>
     <loc>https://example.org/fazit/</loc>
     <lastmod>2024-01-01T16:02:45+01:00</lastmod>
@@ -64,9 +61,6 @@
   </url><url>
     <loc>https://example.org/ich/</loc>
     <lastmod>2024-01-01T15:58:34+01:00</lastmod>
-  </url><url>
-    <loc>https://example.org/schnittstellen/</loc>
-    <lastmod>2024-01-01T15:58:16+01:00</lastmod>
   </url><url>
     <loc>https://example.org/soundstudies/</loc>
     <lastmod>2024-01-01T15:57:44+01:00</lastmod>

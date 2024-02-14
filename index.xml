@@ -8,6 +8,20 @@
     <language>en-us</language>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Literatur</title>
+      <link>https://example.org/literatur/</link>
+      <pubDate>Wed, 14 Feb 2024 13:37:08 +0100</pubDate>
+      <guid>https://example.org/literatur/</guid>
+      <description>Literaturverzeichnis:&#xA;Für das Schreiben dieser Arbeit habe ich mich auf die folgenden Textdokumente gestützt.&#xA;Soudant, L. (2021). Trans*formative Thinking Through Sound: Artistic Research in Gender and Sound Beyond the Human. Open Philosophy, 4(1), 335–346. https://doi.org/10.1515/opphil-2020-0189&#xA;Groth, E. S. K., &amp;amp; Schulze, H. (n.d.). The Bloomsbury Handbook of Sound Art.&#xA;Jarman-Ivens, F. (2011). Queer voices: Technologies, vocalities, and the musical flaw (First edition). Palgrave Macmillan.&#xA;Butler, J. (1999). Gender trouble: Feminism and the subversion of identity (10.</description>
+    </item>
+    <item>
+      <title>Lucasoudant</title>
+      <link>https://example.org/lucasoudant/</link>
+      <pubDate>Tue, 13 Feb 2024 17:34:08 +0100</pubDate>
+      <guid>https://example.org/lucasoudant/</guid>
+      <description>Das von Luca Soudant ins Leben gerufene Konzept des &amp;ldquo;Sonic Manspreadings&amp;rdquo; fungiert als Forschungsidee und Ramen um die lauten, platzeinnehmenden Realität vieler Cis-Männer anzuerkennen und zu benennen. Das Konzept beleuchtet die räumliche und klangliche Manifestation einer Maskulinen Genderperformance und verschiebt so den Fokus vom Visuellen und dem Verhalten hin zu Klanglichen.&#xA;Luca Soudant beschreibt dies als Ausgangslage der Arbeit FEMME CORE. Im Gegensatz zum “visuellen” Manspreadings, geht es beim “Sonic Manspreading” um die klanglichen Dimensionen.</description>
+    </item>
+    <item>
       <title>Inhalt</title>
       <link>https://example.org/inhalt/</link>
       <pubDate>Fri, 02 Feb 2024 14:23:23 +0100</pubDate>
@@ -19,7 +33,7 @@
       <link>https://example.org/malaherba/</link>
       <pubDate>Fri, 02 Feb 2024 13:17:42 +0100</pubDate>
       <guid>https://example.org/malaherba/</guid>
-      <description>Mala Herba Zosia Hołubowska, ist eine genderqueer-nonbinary Klangkünstler*in, Musiker*in und Aktivist*in aus Polen. Zosia Hołubowska sah sich in der polnischen Musikszene nicht repräsentiert und schuf daraufhin eine alternative Persönlichkeit – Mala Herba.&#xA;Die Arbeit von Mala Herba überwindet traditionelle Grenzen in Musik und Aktivismus in dem der Diskurs der polnischen Gesellschaft in Frage gestellt wird, in dem Mala Sex-Positivität mit Kräuterkunde und Dark Wave Synthlines mischt.&#xA;The queer sound is more of a question of approach, rather than concrete sound quality.</description>
+      <description>Mala Herba Zosia Hołubowska, ist eine genderqueer-nonbinary Klangkünstler*in, Musiker*in und Aktivist*in aus Polen. Zosia Hołubowska sah sich in der polnischen Musikszene nicht repräsentiert und schuf daraufhin eine alternative Persönlichkeit – Mala Herba.&#xA;Die Arbeit von Mala Herba überwindet traditionelle Grenzen in Musik und Aktivismus bei dem der rechtskonservative Einfluss der Regierung auf die polnischen Gesellschaft in Frage gestellt wird.&#xA;The queer sound is more of a question of approach, rather than concrete sound quality.</description>
     </item>
     <item>
       <title>DieHarfe</title>
@@ -29,25 +43,11 @@
       <description>Die Harfe Aus einem anderen Text von mir:&#xA;Der Mythos der Harfe als «Engelsinstrument» behauptet sich in meiner eigenen Erfahrung sehr hartnäckig. Nicht nur in der Literatur der romantischen Zeitspanne, sondern auch in zeitgenössischen Werken der Klassik und vor allem in der Populärkultur wird dieses Bild gestärkt durch die oftmals überspitzte Darstellung und Verwendung der Harfe.&#xA;Während den vierzehn Jahren in denen ich nun Harfe spiele hat sich mein Verhältnis zum Instrument stark verändert.</description>
     </item>
     <item>
-      <title>Beanspruchungvonraum</title>
-      <link>https://example.org/beanspruchungvonraum/</link>
-      <pubDate>Sat, 06 Jan 2024 12:43:32 +0100</pubDate>
-      <guid>https://example.org/beanspruchungvonraum/</guid>
-      <description>Beanspruchung von Raum\ Das von Luca Soudant ins Leben gerufene Konzept des &amp;ldquo;Sonic Manspreadings&amp;rdquo; fungiert als Forschungsidee und Ramen um die lauten, platzeinnehmenden Realität vieler Cis-Männer anzuerkennen und zu benennen. Das Konzept beleuchtet die räumliche und klangliche Manifestation einer Maskulinen Genderperformance und verschiebt so den Fokus vom Visuellen und dem Verhalten hin zu Klanglichen. Das Phänomen das männlich Sozialisierte Menschen in öffentlichen Räumen (z.B. Metro, Ausgang, Diskussionen) wesentlich mehr Platz beanspruchen als einerseits nötig wäre und andererseits den anderen Menschen im Raum zugestanden wird, wurde durch sozial Media als ”Manspreading” bekannt.</description>
-    </item>
-    <item>
-      <title>Raum</title>
-      <link>https://example.org/raum/</link>
-      <pubDate>Sat, 06 Jan 2024 12:43:14 +0100</pubDate>
-      <guid>https://example.org/raum/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Sprache</title>
       <link>https://example.org/sprache/</link>
       <pubDate>Mon, 01 Jan 2024 23:05:02 +0100</pubDate>
       <guid>https://example.org/sprache/</guid>
-      <description>Sprache und Stimme Sprache bestimmt wie wir Denken und Handeln und wie wir unser Umfeld wahrnehmen. Dabei ist sie ständigem Wandel unterworfen. In ihrem Zentrum steht die Kommunikation und der Ausdruck. Dadurch passt sich die Sprache den Bedürfnissen der Sprechenden an und Formt gleichzeitig die Sprechenden.&#xA;Sprache wird erzeugt durch Körper. The (material) voice can be a mediator between body and language; it gives language meaning, in its inflections, its speed, its accent, its bodiliness, but it is also an object apart from language.</description>
+      <description>Sprache und Stimme Sprache bestimmt wie wir Denken und Handeln und wie wir unser Umfeld wahrnehmen. Dabei ist sie ständigem Wandel unterworfen. So wie sich die Bedeutung des Wortes Gossip geändert hat. In ihrem Zentrum steht die Kommunikation und der Ausdruck. Dadurch passt sich die Sprache den Bedürfnissen der Sprechenden an und formt gleichzeitig die Sprechenden mit. Diese Dynamik spiegelt sich auch in der Verwendung von Begriffen über Sprache wieder.</description>
     </item>
     <item>
       <title>Judithbutler</title>
@@ -85,25 +85,18 @@
       <description>hypertext \ Die Arbeit ist im Hypertextformat gestaltet, was ein nichtlineares Lesen ermöglicht. Durch das Klicken auf den Link bist du hier gelandet, wenn du zurück zur Einleitung willst, dann klicke hier. \</description>
     </item>
     <item>
-      <title>Glossar</title>
-      <link>https://example.org/glossar/</link>
-      <pubDate>Mon, 01 Jan 2024 16:03:07 +0100</pubDate>
-      <guid>https://example.org/glossar/</guid>
-      <description>Glossar: \ hier kommt jetzt das Glossar.&#xA;\</description>
-    </item>
-    <item>
       <title>Fazit</title>
       <link>https://example.org/fazit/</link>
       <pubDate>Mon, 01 Jan 2024 16:02:45 +0100</pubDate>
       <guid>https://example.org/fazit/</guid>
-      <description>Fazit Die Faszination der Reizüberflutung, die Schönheit des überkomprimierten Tiktokhits, die Gabber Kick und der Dubstep wub.&#xA;Die Faszination für mich liegt in der Einfachheit und dem loslassen.&#xA;Der Midicontroller ist das Medium oder so, naja zumindest das Interface.&#xA;Die Verknüpfung oder das Zusammenspiel zwischen Mensch(also mir als Performerin) und der Maschine(meinen Gefühlen und Gedanken in Form eines Audiofiles) muss so simpel wie möglich sein, nichts soll diesen Austausch stören. Dafür nehme ich auch gerne die 127 begrenzten Abstufungen des Ausdrucks in Kauf.</description>
+      <description>Fazit Die Faszination der Reizüberflutung, die Schönheit des überkomprimierten Tiktokhits, die Gabber Kick und der Dubstep wub.&#xA;Die Auseinandersetzung und das niederschreiben von meinen persönlichen Prozessen hat mir eine geordnetere Sicht auf viele kleine einzelne Projekte und Ansätze gegeben, welche ansonsten vermutlich viel Chaotischer und unstrukturierter herumgelegen hätten.&#xA;Die Gegenüberstellung von zwei, oftmals auf den ersten Blick nur lose verbundenen Themen, wie Gender und Sound hat mir eine neue Perspektive auf mein Schaffen und das dadurch verbundene Platz einnehmen gegeben.</description>
     </item>
     <item>
       <title>Andererprozess</title>
       <link>https://example.org/andererprozess/</link>
       <pubDate>Mon, 01 Jan 2024 16:02:19 +0100</pubDate>
       <guid>https://example.org/andererprozess/</guid>
-      <description>der andere Prozess Nach dem ich jahrelang in einer grossen Dissonanz zwischen meiner Selbstwahrnehmung und der Aussenwelt gelebt habe, fällt es mir jetzt plötzlich leicht hinter meiner Arbeit zu stehen. Ein Großteil dieser Entwicklung sehe ich auch in meinem inneren und äusseren Coming-out. Von Aussen betrachtet kann es wohl etwas mit dem Anlegen einer Kunstperson vergleichen werden. Plötzlich erscheine ich anders, verhalte mich vermutlich auch anders und sehe nicht mehr so aus wie früher.</description>
+      <description>der andere Prozess In diesem Text geht es um mein Coming Out als Trans.&#xA;Nach dem ich jahrelang in einer grossen Dissonanz zwischen meiner Selbstwahrnehmung und der Aussenwelt gelebt habe, fällt es mir jetzt plötzlich leicht hinter meiner Arbeit zu stehen. Ein Großteil dieser Entwicklung sehe ich auch in meinem inneren und äusseren Coming-out. Von Aussen betrachtet kann es wohl etwas mit dem Anlegen einer Kunstperson vergleichen werden. Plötzlich erscheine ich anders, verhalte mich vermutlich auch anders und sehe nicht mehr so aus wie früher.</description>
     </item>
     <item>
       <title>Prozess</title>
@@ -131,7 +124,7 @@
       <link>https://example.org/loslassen/</link>
       <pubDate>Mon, 01 Jan 2024 15:59:35 +0100</pubDate>
       <guid>https://example.org/loslassen/</guid>
-      <description>loslassen Durch mein (zuerst inneres, später äusseres) Coming-out gelang mir ein grosses Loslassen von einem Konstrukt, welches ich über die Jahre aufgebaut habe. Plötzlich musste ich nicht mehr irgendjemandem etwas beweisen.&#xA;Durch das loslassen von dem Konstrukt entstand aber auch Raum für ein bisher neues Gefühl, ein not giving a fuck anymore. Nicht (nur) im Sinne von Selbstaufgabe sondern viel mehr im Sinne einer Realisation das vieles nicht so starr ist wie lange angenommen, das es auch gar nicht so drauf ankommt imfau&amp;hellip;.</description>
+      <description>loslassen Durch mein (zuerst inneres, später äusseres) Coming-out als Trans gelang mir ein grosses Loslassen von einem Konstrukt, welches ich über die Jahre aufgebaut habe. Plötzlich musste ich nicht mehr irgendjemandem etwas beweisen.&#xA;Durch das loslassen von dem Konstrukt entstand aber auch Raum für ein bisher neues Gefühl, ein not giving a fuck anymore. Nicht (nur) im Sinne von Selbstaufgabe sondern viel mehr im Sinne einer Realisation das vieles nicht so starr ist wie lange angenommen, das es auch gar nicht so drauf ankommt imfau&amp;hellip;.</description>
     </item>
     <item>
       <title>Streaming</title>
@@ -152,35 +145,28 @@
       <link>https://example.org/ich/</link>
       <pubDate>Mon, 01 Jan 2024 15:58:34 +0100</pubDate>
       <guid>https://example.org/ich/</guid>
-      <description>Ich Das &amp;ldquo;Ich&amp;rdquo; in meiner Arbeit Es muss wohl erwähnt werden, das die folgenden Textabschnitte in einer Zeit entstanden, in der es mir mental nicht gut geht. That being said, finde ich es auf merkwürdige Art und Weise spannend zu beobachten was in meinem Inneren vorgeht.&#xA;bei mir entsteht fast schon eine Faszination für eine Art Zerfalls- oder Umwandlungsprozess Gleichzeitig ist es ein riesiges Privileg in einer akzeptierenden Bubble zu sein, gute Freund*innenschaften zu haben und die Kapazität, Mittel und Zeit zu haben diese Arbeit zu schreiben.</description>
-    </item>
-    <item>
-      <title>Schnittstellen</title>
-      <link>https://example.org/schnittstellen/</link>
-      <pubDate>Mon, 01 Jan 2024 15:58:16 +0100</pubDate>
-      <guid>https://example.org/schnittstellen/</guid>
-      <description>Schnittstellen zwischen Queerer Theorie, Gender und Klangästhetik: Körper, Räume und Akustik\ \&#xA;Beim Schreiben dieser Arbeit versuchte ich jeweils Verbindungsstellen zwischen Queertheory und Sound zu finden. Dies stellte sich als gar nicht so einfach heraus, da es letztendlich selten direkt um den Klang (im Sinne der bewegten Luft) geht, sondern viel mehr um den Kontext in dem er eingebettet ist.&#xA;Dem Raum und dem</description>
+      <description>Ich, meine Arbeit und mein Coming-out Ich möchte vorab erwähnen, dass die folgenden Textabschnitte Raum einnehmen, Klang als Medium, loslassen und meine Arbeit in einer Zeit entstanden sind, in der es mir mental nicht gut geht. That being said, finde ich es auf merkwürdige Art und Weise spannend zu beobachten was in meinem Inneren vorgeht. Dies habe ich in den Kapiteln loslassen und der Prozess dokumentiert.&#xA;Gleichzeitig ist es ein riesiges Privileg in einer akzeptierenden Bubble zu sein, gute Freund*innenschaften zu haben und die Kapazität, Mittel und Zeit zu haben diese Arbeit zu schreiben.</description>
     </item>
     <item>
       <title>Soundstudies</title>
       <link>https://example.org/soundstudies/</link>
       <pubDate>Mon, 01 Jan 2024 15:57:44 +0100</pubDate>
       <guid>https://example.org/soundstudies/</guid>
-      <description>soundstudies Sich mit der Eigenschaft von Klang auseinander zu setzten bedeutet zwangsläufig sich mit den sozialen und kulturellen Gegebenheiten in denen Klang wahrgenommen wird zu beschäftigen. Weshalb werden Klänge mit Räumen, Kontexten, Gender und letztendlich und Menschen assoziiert? Weshalb werden einzelne Klänge im Diskurs der Klangkunst als potentiell interessant eingestuft, während andere ignoriert werden?&#xA;Die Erforschung der Zugehörigkeitspolitik im Kontext der Klangkunst wird dabei zwangsläufig politisch, da der hörende Körper ansonsten unsichtbar wird – die komplexen Verknüpfungen des Hörkontext mit der Umwelt in der wir uns befinden wird verneint.</description>
+      <description>soundstudies Sich mit der Eigenschaft von Klang auseinander zu setzten bedeutet zwangsläufig sich mit den sozialen und kulturellen Gegebenheiten in denen Klang wahrgenommen wird zu beschäftigen. Weshalb werden Klänge mit Räumen, Kontexten, Gender und letztendlich und Menschen assoziiert? Weshalb werden einzelne Klänge im Diskurs der Klangkunst als potentiell interessant eingestuft, während andere ignoriert werden?&#xA;Im Buch “The Bloomsbury Handbook of Sound Art”1 beschreibt Pedro J. S. Vieira de Oliveira wie die Erforschung der Zugehörigkeitspolitik im Kontext der Klangkunst dabei zwangsläufig politisch wird.</description>
     </item>
     <item>
       <title>Klangalsmedium</title>
       <link>https://example.org/klangalsmedium/</link>
       <pubDate>Mon, 01 Jan 2024 15:57:19 +0100</pubDate>
       <guid>https://example.org/klangalsmedium/</guid>
-      <description>Klang als Medium Im Gegensatz zur Stimme, bei der der Bezug zu Körper und Raum klar ersichtlich ist, stehen für mich alle anderen Klänge. Dadurch dass die tiefe emotionale Verbindung der Stimme auf unser Denken und die seit der Geburt verknüpfte soziale Bindung bei nicht-Stimmklängen wegfällt ist die Einordnung dieser Klänge wesentlich undurchsichtiger und pastelfarbener.&#xA;gerade durch dieses losgelöst sein von der Direktheit der Stimme ergeben sich in meinen Augen spannende Unschärfen Durch meine Arbeit mit Klang erarbeitete ich mir ein Verständnis davon, welches über die physikalischen Aspekte hinaus geht und Klang als greifbares Medium mit fühlbaren Attributen versteht.</description>
+      <description>Klang als Medium Im Gegensatz zur Stimme, bei der der Bezug zu Körper und Raum klarer ersichtlich ist, stehen für mich alle anderen Klänge. Dadurch dass die tiefe emotionale Verbindung der Stimme auf unser Denken und die seit der Geburt verknüpfte soziale Bindung bei nicht-Stimmklängen wegfällt ist die Einordnung dieser Klänge wesentlich undurchsichtiger und pastelfarbener.&#xA;gerade durch dieses losgelöst sein von der Direktheit der Stimme ergeben sich in meinen Augen spannende Unschärfen Durch meine Arbeit mit Klang erarbeitete ich mir ein Verständnis davon, welches über die physikalischen Aspekte hinaus geht und Klang als greifbares Medium mit fühlbaren Attributen versteht.</description>
     </item>
     <item>
       <title>Binaritaet</title>
       <link>https://example.org/binaritaet/</link>
       <pubDate>Mon, 01 Jan 2024 15:55:56 +0100</pubDate>
       <guid>https://example.org/binaritaet/</guid>
-      <description>binaritaet Es wird nicht unterschieden zwischen &amp;ldquo;Frau&amp;rdquo; und &amp;ldquo;Mann&amp;rdquo; als binäre Kategorien sondern die beiden Adjektive &amp;ldquo;feminin und maskulin&amp;rdquo; verwendet. Dadurch wird die Differenzierung zwischen dem Verhalten und den körperlichen Gegebenheiten sprachlich hervorgehoben – es entsteht ein Spektrum.&#xA;Die Betrachtung, das Gender über die Binarität herausgeht und fluide ist, verlang ein Neudenken von Konzepten, Annahmen, Erwartungen und den Aspekten welche unser Zusammenleben und unsere Art zu Kommunizieren beeinflussen.&#xA;Gleichzeitig wird auch ersichtlich, das jeder Mensch unweigerlich auch eine Gender-Identity, also eine Verordnung auf diesem Spektrum hat.</description>
+      <description>binaritaet Es wird nicht unterschieden zwischen &amp;ldquo;Frau&amp;rdquo; und &amp;ldquo;Mann&amp;rdquo; als binäre Kategorien sondern die beiden Adjektive &amp;ldquo;feminin und maskulin&amp;rdquo; verwendet. Dadurch wird die Differenzierung zwischen dem Verhalten und den körperlichen Gegebenheiten sprachlich hervorgehoben – es entsteht ein mehrdimensionales Feld des Ausdrucks.&#xA;Die Betrachtung, das Gender über die Binarität herausgeht und fluide ist, verlang ein Neudenken von Konzepten, Annahmen, Erwartungen und den Aspekten welche unser Zusammenleben und unsere Art zu Kommunizieren beeinflussen.</description>
     </item>
     <item>
       <title>Genderidentity</title>
@@ -208,7 +194,7 @@
       <link>https://example.org/queer/</link>
       <pubDate>Mon, 01 Jan 2024 15:46:50 +0100</pubDate>
       <guid>https://example.org/queer/</guid>
-      <description>queer adj.1 {Origin uncertain; perhaps (or perhaps even cognate with) German quer transverse, oblique, crosswise, at right angles, obstructive, (of things) going wrong (now rare), (of a person) peculiar (now obsolete in this sense), (of a glance) directed side- ways, especially in a surreptitious or hostile manner (now rare), (of opinion and behaviour) at odds with others (see thwart adv.)[^buch dessen name ich vergessen habe]&#xA;Die Verwendung des Wortes Queer hat sich im Laufe der Zeit stark geändert, während es früher verwendet wurde, um etwas Ungewöhnliches oder Seltsames zu beschreiben hat es sich zu einer Art Überbegriff für sexueller Orientierung und Gender Identity entwickelt.</description>
+      <description>queer adj.1 {Origin uncertain; perhaps (or perhaps even cognate with) German quer transverse, oblique, crosswise, at right angles, obstructive, (of things) going wrong (now rare), (of a person) peculiar (now obsolete in this sense), (of a glance) directed side- ways, especially in a surreptitious or hostile manner (now rare), (of opinion and behaviour) at odds with others (see thwart adv.)[^buch dessen name ich vergessen habe, kommt noch]&#xA;Die Verwendung des Wortes Queer hat sich im Laufe der Zeit stark geändert, während es früher verwendet wurde, um etwas Ungewöhnliches oder Seltsames zu beschreiben hat es sich zu einer Art Überbegriff für sexueller Orientierung und Gender Identity entwickelt.</description>
     </item>
     <item>
       <title>Einleitung</title>
