@@ -8,6 +8,27 @@
     <language>en-us</language>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Sexualitaet</title>
+      <link>https://example.org/sexualitaet/</link>
+      <pubDate>Tue, 20 Feb 2024 16:50:14 +0100</pubDate>
+      <guid>https://example.org/sexualitaet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Heterosexualitaet</title>
+      <link>https://example.org/heterosexualitaet/</link>
+      <pubDate>Tue, 20 Feb 2024 16:49:22 +0100</pubDate>
+      <guid>https://example.org/heterosexualitaet/</guid>
+      <description>Im Gegensatz zur Homosexualität fühlt sich die Person emotional und romantisch zu einer (oder mehreren) Personen des “gegenüberliegenden” Geschlechts angezogen.</description>
+    </item>
+    <item>
+      <title>Homosexualitaet</title>
+      <link>https://example.org/homosexualitaet/</link>
+      <pubDate>Tue, 20 Feb 2024 16:48:43 +0100</pubDate>
+      <guid>https://example.org/homosexualitaet/</guid>
+      <description>Homosexualität bezeichnet die sexuelle Orientierung, bei der sich eine Person emotional und romantisch zu Personen des gleichen Gender angezogen fühlt.&#xA;Abwandlungen davon sind die Bi/Pansexualität, bei der sich eine Person gleichermassen zu Menschen hingezogen fühlt, wobei die Pansexualität im heutigen Sprachgebrauch die fludidität von Gender stärker betont.&#xA;Wenn sich eine Person romantisch zu anderen Personen hingezogen fühlt, jedoch keine sexuelle Anziehung empfindet, wird von Asexualität gesprochen.</description>
+    </item>
+    <item>
       <title>Literatur</title>
       <link>https://example.org/literatur/</link>
       <pubDate>Wed, 14 Feb 2024 13:37:08 +0100</pubDate>
@@ -19,7 +40,7 @@
       <link>https://example.org/lucasoudant/</link>
       <pubDate>Tue, 13 Feb 2024 17:34:08 +0100</pubDate>
       <guid>https://example.org/lucasoudant/</guid>
-      <description>Das von Luca Soudant ins Leben gerufene Konzept des &amp;ldquo;Sonic Manspreadings&amp;rdquo; fungiert als Forschungsidee und Ramen um die lauten, platzeinnehmenden Realität vieler Cis-Männer anzuerkennen und zu benennen. Das Konzept beleuchtet die räumliche und klangliche Manifestation einer Maskulinen Genderperformance und verschiebt so den Fokus vom Visuellen und dem Verhalten hin zu Klanglichen.&#xA;Luca Soudant beschreibt dies als Ausgangslage der Arbeit FEMME CORE. Im Gegensatz zum “visuellen” Manspreadings, geht es beim “Sonic Manspreading” um die klanglichen Dimensionen.</description>
+      <description>FEMME CORE Das von Luca Soudant ins Leben gerufene Konzept des &amp;ldquo;Sonic Manspreadings&amp;rdquo; fungiert als Forschungsidee und Rahmen um die lauten, platzeinnehmenden Realität vieler Cis-Männer anzuerkennen und zu benennen. Das Konzept beleuchtet die räumliche und klangliche Manifestation einer maskulinen Genderperformance und verschiebt so den Fokus vom Visuellen und dem Verhalten hin zu Klanglichen.&#xA;Luca Soudant beschreibt dies als Ausgangslage der Arbeit FEMME CORE. Im Gegensatz zum “visuellen” Manspreadings, geht es beim “Sonic Manspreading” um die klanglichen Dimensionen.</description>
     </item>
     <item>
       <title>Inhalt</title>
@@ -47,21 +68,21 @@
       <link>https://example.org/sprache/</link>
       <pubDate>Mon, 01 Jan 2024 23:05:02 +0100</pubDate>
       <guid>https://example.org/sprache/</guid>
-      <description>Sprache und Stimme Sprache bestimmt wie wir Denken und Handeln und wie wir unser Umfeld wahrnehmen. Dabei ist sie ständigem Wandel unterworfen. So wie sich die Bedeutung des Wortes Gossip geändert hat. In ihrem Zentrum steht die Kommunikation und der Ausdruck. Dadurch passt sich die Sprache den Bedürfnissen der Sprechenden an und formt gleichzeitig die Sprechenden mit. Diese Dynamik spiegelt sich auch in der Verwendung von Begriffen über Sprache wieder.</description>
+      <description>Sprache und Stimme Sprache bestimmt wie wir Denken und Handeln und wie wir unser Umfeld wahrnehmen. Dabei ist sie ständigem Wandel unterworfen. In ihrem Zentrum steht die Kommunikation und der Ausdruck. Dadurch passt sich die Sprache den Bedürfnissen der Sprechenden an und formt gleichzeitig die Sprechenden mit. Diese Dynamik spiegelt sich auch in der Verwendung von Begriffen über Sprache wieder.&#xA;So beschreibt Silvia Federici im Buch “Witch-Hunting, Past and Present, and the Fear of the Power of Women” anhand des Begriffs Gossip eine vielschichtige Veränderung des Begriffs welche an gesellschaftliche Veränderungen geknüpft ist.</description>
     </item>
     <item>
       <title>Judithbutler</title>
       <link>https://example.org/judithbutler/</link>
       <pubDate>Mon, 01 Jan 2024 16:04:46 +0100</pubDate>
       <guid>https://example.org/judithbutler/</guid>
-      <description>Judith Butler (they/them) Judith Butler ist eine*r der wohl bekanntesten Vordenker*innen zum modernen Queerfeminismus. Bekannt wurde Butler durch das 1990 erschienene Buch “Gender Trouble” welches die traditionellen Vorstellungen zu Geschlecht hinterfragt. Darin wird die Ansicht das Gender perfomativ und dadurch auch fluide ist begründet.</description>
+      <description>Judith Butler (they/them) Judith Butler ist eine*r der wohl bekanntesten Vordenker*innen zum modernen Queerfeminismus. Bekannt wurde Butler durch das 1990 erschienene Buch “Gender Trouble” welches die traditionellen Vorstellungen zu Geschlecht hinterfragt. Darin wird die Ansicht das Gender perfomativ und dadurch auch fluide ist begründet. Der moderne Queerfeminismus stützt sich zu einem grossen Teil auf die Arbeit von Judith Butler, wobei die Konzepte und Ideen weiter ausgebaut und an die gesellschaftlichen Veränderungen angepasst wurden.</description>
     </item>
     <item>
       <title>Trans</title>
       <link>https://example.org/trans/</link>
       <pubDate>Mon, 01 Jan 2024 16:04:33 +0100</pubDate>
       <guid>https://example.org/trans/</guid>
-      <description>trans Trans* ist ein Überbegriff für Personen, die sich nicht oder nur teilweise mit dem bei der Geburt eingetragenen Geschlecht identifizieren. Das Wort trans kommt aus dem Lateinischen und bedeutet „jenseits/darüber hinaus“. 1&#xA;https://www.trans-inter-beratungsstelle.de/de/begriffserklaerungen.html&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+      <description>trans Trans* ist ein Überbegriff für Personen, die sich nicht oder nur teilweise mit dem bei der Geburt eingetragenen Geschlecht identifizieren. Das Wort trans kommt aus dem Lateinischen und bedeutet „jenseits/darüber hinaus“.1&#xA;Dabei wird das jeweilige Geschlecht mit der sich die Person identifiziert als Bezeichnung verwendet. Sprich eine Person welche bei der Geburt als Mann bezeichnet wurde wird nach ihrem Coming-Out als Transfrau oder Frau bezeichnet.&#xA;Zudem gibt es Personen welche sich nicht in den binären Kategorien verordnen, diese werden als non-binär oder agender bezeichnet.</description>
     </item>
     <item>
       <title>Sex</title>
@@ -75,7 +96,7 @@
       <link>https://example.org/gender/</link>
       <pubDate>Mon, 01 Jan 2024 16:03:36 +0100</pubDate>
       <guid>https://example.org/gender/</guid>
-      <description>gender &amp;ldquo;Gender&amp;rdquo; bezieht sich auf die sozialen, kulturellen und psychologischen Aspekte von Geschlecht, im Gegensatz zum englischen Wort “sex“ welches sich auf die biologischen Merkmale und Gegebenheiten bezieht.</description>
+      <description>gender &amp;ldquo;Gender&amp;rdquo; bezieht sich auf die sozialen, kulturellen und psychologischen Aspekte von Geschlecht, im Gegensatz zum englischen Wort “sex“ welches sich auf die biologischen Merkmale und Gegebenheiten bezieht.&#xA;Zu welchem Gender sich Personen angezogen fühlen in Relation zum eigenen lässt wiederum Rückschlüsse auf deren Sexualität zu.</description>
     </item>
     <item>
       <title>Hypertext</title>
@@ -96,35 +117,35 @@
       <link>https://example.org/andererprozess/</link>
       <pubDate>Mon, 01 Jan 2024 16:02:19 +0100</pubDate>
       <guid>https://example.org/andererprozess/</guid>
-      <description>der andere Prozess In diesem Text geht es um mein Coming Out als Trans.&#xA;Nach dem ich jahrelang in einer grossen Dissonanz zwischen meiner Selbstwahrnehmung und der Aussenwelt gelebt habe, fällt es mir jetzt plötzlich leicht hinter meiner Arbeit zu stehen. Ein Großteil dieser Entwicklung sehe ich auch in meinem inneren und äusseren Coming-out. Von Aussen betrachtet kann es wohl etwas mit dem Anlegen einer Kunstperson vergleichen werden. Plötzlich erscheine ich anders, verhalte mich vermutlich auch anders und sehe nicht mehr so aus wie früher.</description>
+      <description>der andere Prozess In diesem Text geht es um mein Coming Out als Trans.&#xA;Nach dem ich jahrelang in einer grossen Dissonanz zwischen meiner Selbstwahrnehmung und der Aussenwelt gelebt habe, fällt es mir jetzt plötzlich leicht hinter meiner Arbeit zu stehen. Ein Großteil dieser Entwicklung sehe ich auch in meinem inneren und äusseren Coming-out. Von aussen betrachtet kann es wohl etwas mit dem Anlegen einer Kunstperson vergleichen werden. Plötzlich erscheine ich anders, verhalte mich vermutlich auch anders und sehe nicht mehr so aus wie früher.</description>
     </item>
     <item>
       <title>Prozess</title>
       <link>https://example.org/prozess/</link>
       <pubDate>Mon, 01 Jan 2024 16:00:41 +0100</pubDate>
       <guid>https://example.org/prozess/</guid>
-      <description>Der Prozess Als Basis dient eine über die letzten Jahre angelegte Library an Samples und unbearbeitetem Tonmaterial. Dabei habe ich, Anfangs noch wenig - mittlerweile immer mehr, eine klare Ordnung zwischen Sounds welche von mir aufgenommen wurden und solchen aus externen Quellen sowie die weiterverarbeiteten Versionen dieser Files. Dabei möchte ich den Umgang mit den Files als etwas sehr materielles ansehen, fast so als würde ich vor einem Gestell mit tausenden kleinen Objekten stehen.</description>
+      <description>Der Prozess Als Basis dient eine über die letzten Jahre hinweg angelegte Library an Samples und unbearbeitetem Tonmaterial. Dabei habe ich, Anfangs noch wenig - mittlerweile immer mehr, eine klare Ordnung zwischen Sounds welche von mir aufgenommen wurden und solchen aus externen Quellen sowie die weiterverarbeiteten Versionen dieser Files. Dabei möchte ich den Umgang mit den Files als etwas sehr materielles ansehen, fast so als würde ich vor einem Gestell mit tausenden kleinen Objekten stehen.</description>
     </item>
     <item>
       <title>Hannah</title>
       <link>https://example.org/hannah/</link>
       <pubDate>Mon, 01 Jan 2024 16:00:23 +0100</pubDate>
       <guid>https://example.org/hannah/</guid>
-      <description>Hannah_Heartbreak Mein erstes Solo-Projekt als Hannah. Dieser Text entstand einen Tag nach dem ich mein Set zum ersten mal im Radio-Bollwerk gespielt habe. Während meinem Coming-out im Sommer 23 spürte ich zum ersten Mal das Bedürfnis und den Mut ein eigenes Soloprojekt zu starten. Zuvor war ich an verschiedenen Projekten beteiligt, nie jedoch als Einzelperson - ausser im schulischen Kontext, aber das zählt ja auch nur so halb. Ich wollte ausbrechen, ich wollte etwas unendlich queeres machen, etwas das am besten morgens um 4uhr auf dem zweiten Floor eines verrauchten Clubs funktioniert.</description>
+      <description>Hannah_Heartbreak Mein erstes Solo-Projekt als Hannah. Dieser Text entstand einen Tag nach dem ich mein Set zum ersten mal im Radio-Bollwerk gespielt habe. Während meinem Coming-out im Sommer 23 spürte ich zum ersten Mal das Bedürfnis und den Mut ein eigenes Soloprojekt zu starten. Zuvor war ich an verschiedenen Projekten beteiligt, nie jedoch als Einzelperson - ausser im schulischen Kontext, aber das zählt ja auch nur so halb. Ich wollte ausbrechen, ich wollte etwas unendlich queeres machen, etwas, dass am besten morgens um 04:00 Uhr auf dem zweiten Floor eines verrauchten Clubs funktioniert.</description>
     </item>
     <item>
       <title>Meinearbeit</title>
       <link>https://example.org/meinearbeit/</link>
       <pubDate>Mon, 01 Jan 2024 16:00:08 +0100</pubDate>
       <guid>https://example.org/meinearbeit/</guid>
-      <description>und meine Arbeit? Während den letzten vier Jahren habe ich mich vor allem ausprobiert und viele kleine Projekte angefangen. Einige habe ich mitgenommen, andere sind versandet&amp;hellip; einige wurden ausserhalb des Schulkontextes gezeigt, andere blieben in diesem Ramen. Bin ja auch noch jung – was es irgendwie auch etwas seltsam macht über die letzten Jahre zu schreiben als wäre ich vierzig.&#xA;dennoch hier eine chaotische Liste:&#xA;[Verschiedenste Stücke für Harfe] -&amp;gt; mp3 Saiteninstrument mit Live-Elektronik Nacht - Performance mit Lena Käsermann, Kunsthalle Bern CD40106 Amorph - Videoarbeit, HKB Silicon Garden Cauchemar - Stück für Harfe mit Live-elektronik, HKB Glanzlicht - Kammermusikstück für Stimme, Querflöte und Harfe, HKB Spätstil - Drum/Noise Duo mit Severin Rusch not2goodnot2bad - Performance Piece/Label/Dj/Konzept mit Noah Reusser Hannah Heartbreak |.</description>
+      <description>und meine Arbeit? In den letzten vier Jahren habe ich mich vor allem ausprobiert und viele kleine Projekte angefangen. Einige habe ich mitgenommen, andere sind versandet&amp;hellip; einige wurden ausserhalb des Schulkontextes gezeigt, andere blieben in diesem Rahmen. Bin ja auch noch jung – was es irgendwie auch etwas seltsam macht über die letzten Jahre zu schreiben als wäre ich vierzig.&#xA;dennoch hier eine chaotische Liste:&#xA;[Verschiedenste Stücke für Harfe] -&amp;gt; mp3 Saiteninstrument mit Live-Elektronik Nacht - Performance mit Lena Käsermann, Kunsthalle Bern CD40106 Amorph - Videoarbeit, HKB Silicon Garden Cauchemar - Stück für Harfe mit Live-elektronik, HKB Glanzlicht - Kammermusikstück für Stimme, Querflöte und Harfe, HKB Spätstil - Drum/Noise Duo mit Severin Rusch not2goodnot2bad - Performance Piece/Label/Dj/Konzept mit Noah Reusser Hannah Heartbreak |.</description>
     </item>
     <item>
       <title>Loslassen</title>
       <link>https://example.org/loslassen/</link>
       <pubDate>Mon, 01 Jan 2024 15:59:35 +0100</pubDate>
       <guid>https://example.org/loslassen/</guid>
-      <description>loslassen Durch mein (zuerst inneres, später äusseres) Coming-out als Trans gelang mir ein grosses Loslassen von einem Konstrukt, welches ich über die Jahre aufgebaut habe. Plötzlich musste ich nicht mehr irgendjemandem etwas beweisen.&#xA;Durch das loslassen von dem Konstrukt entstand aber auch Raum für ein bisher neues Gefühl, ein not giving a fuck anymore. Nicht (nur) im Sinne von Selbstaufgabe sondern viel mehr im Sinne einer Realisation das vieles nicht so starr ist wie lange angenommen, das es auch gar nicht so drauf ankommt imfau&amp;hellip;.</description>
+      <description>loslassen Durch mein (zuerst inneres, später äusseres) Coming-out als Transfrau gelang mir ein grosses Loslassen von einem Konstrukt, welches ich über die Jahre aufgebaut habe. Plötzlich musste ich nicht mehr irgendjemandem etwas beweisen.&#xA;Durch das Loslassen von dem Konstrukt entstand aber auch Raum für ein bisher neues Gefühl, ein not giving a fuck anymore. Nicht (nur) im Sinne von Selbstaufgabe sondern viel mehr im Sinne einer Realisierung, dass vieles nicht so starr ist wie lange angenommen und dass es auch gar nicht so drauf ankommt imfau&amp;hellip;.</description>
     </item>
     <item>
       <title>Streaming</title>
@@ -138,7 +159,7 @@
       <link>https://example.org/raumeinnehmen/</link>
       <pubDate>Mon, 01 Jan 2024 15:59:03 +0100</pubDate>
       <guid>https://example.org/raumeinnehmen/</guid>
-      <description>Raum einnehmen Das Einnehmen von Raum, sei es im Sinne von physischem Raum oder im übertragenen Sinne von Zeit und Aufmerksamkeit, fällt mir bis heute schwer. Erst später ist mir aufgefallen wie oft ich gerne einfach unsichtbar gewesen wäre und wie ich es gleichzeitig durch überspieltes Selbstbewusstsein versuchte zu kaschieren. Wie ich zwanghaft versuchte einen Körper und ein Rollenbild auszufüllen, das nicht (zu) mir gehörte. Wie mich das als Mann gelesen werden stresste und ich es durch eine Art zynische Antihaltung- sogenannte edginess, kompensierte.</description>
+      <description>Raum einnehmen Das Einnehmen von Raum, sei es im Sinne von physischem Raum oder im übertragenen Sinne von Zeit und Aufmerksamkeit, fällt mir bis heute schwer. Erst später ist mir aufgefallen wie oft ich gerne einfach unsichtbar gewesen wäre und wie ich es gleichzeitig durch überspieltes Selbstbewusstsein versuchte zu kaschieren. Wie ich zwanghaft versuchte einen Körper und ein Rollenbild auszufüllen, das nicht (zu) mir gehörte. Wie mich das “als Mann gelesen werden” stresste und ich es durch eine Art zynische Antihaltung- sogenannte edginess, kompensierte.</description>
     </item>
     <item>
       <title>Ich</title>
@@ -152,42 +173,42 @@
       <link>https://example.org/soundstudies/</link>
       <pubDate>Mon, 01 Jan 2024 15:57:44 +0100</pubDate>
       <guid>https://example.org/soundstudies/</guid>
-      <description>soundstudies Sich mit der Eigenschaft von Klang auseinander zu setzten bedeutet zwangsläufig sich mit den sozialen und kulturellen Gegebenheiten in denen Klang wahrgenommen wird zu beschäftigen. Weshalb werden Klänge mit Räumen, Kontexten, Gender und letztendlich und Menschen assoziiert? Weshalb werden einzelne Klänge im Diskurs der Klangkunst als potentiell interessant eingestuft, während andere ignoriert werden?&#xA;Im Buch “The Bloomsbury Handbook of Sound Art”1 beschreibt Pedro J. S. Vieira de Oliveira wie die Erforschung der Zugehörigkeitspolitik im Kontext der Klangkunst dabei zwangsläufig politisch wird.</description>
+      <description>soundstudies Sich mit der Eigenschaft von Klang auseinander zu setzten bedeutet zwangsläufig sich mit den sozialen und kulturellen Gegebenheiten in denen Klang wahrgenommen wird zu beschäftigen. Weshalb werden Klänge mit Räumen, Kontexten, Gender und letztendlich mit Menschen assoziiert? Weshalb werden einzelne Klänge im Diskurs der Klangkunst als potentiell interessant eingestuft, während andere ignoriert werden?&#xA;Im Buch “The Bloomsbury Handbook of Sound Art”1 beschreibt Pedro J. S. Vieira de Oliveira wie die Erforschung der Zugehörigkeitspolitik im Kontext der Klangkunst dabei zwangsläufig politisch wird.</description>
     </item>
     <item>
       <title>Klangalsmedium</title>
       <link>https://example.org/klangalsmedium/</link>
       <pubDate>Mon, 01 Jan 2024 15:57:19 +0100</pubDate>
       <guid>https://example.org/klangalsmedium/</guid>
-      <description>Klang als Medium Im Gegensatz zur Stimme, bei der der Bezug zu Körper und Raum klarer ersichtlich ist, stehen für mich alle anderen Klänge. Dadurch dass die tiefe emotionale Verbindung der Stimme auf unser Denken und die seit der Geburt verknüpfte soziale Bindung bei nicht-Stimmklängen wegfällt ist die Einordnung dieser Klänge wesentlich undurchsichtiger und pastelfarbener.&#xA;gerade durch dieses losgelöst sein von der Direktheit der Stimme ergeben sich in meinen Augen spannende Unschärfen Durch meine Arbeit mit Klang erarbeitete ich mir ein Verständnis davon, welches über die physikalischen Aspekte hinaus geht und Klang als greifbares Medium mit fühlbaren Attributen versteht.</description>
+      <description>Klang als Medium Im Gegensatz zur Stimme, bei der der Bezug zu Körper und Raum klarer ersichtlich ist, stehen für mich alle anderen Klänge. Dadurch dass die tiefe emotionale Verbindung der Stimme auf unser Denken und die seit der Geburt verknüpfte soziale Bindung bei nicht-Stimmklängen wegfällt ist die Einordnung dieser Klänge wesentlich undurchsichtiger und pastellfarbener.&#xA;gerade durch dieses losgelöst sein von der Direktheit der Stimme ergeben sich in meinen Augen spannende Unschärfen Durch meine Arbeit mit Klang erarbeitete ich mir ein Verständnis davon, welches über die physikalischen Aspekte hinaus geht und Klang als greifbares Medium mit fühlbaren Attributen versteht.</description>
     </item>
     <item>
       <title>Binaritaet</title>
       <link>https://example.org/binaritaet/</link>
       <pubDate>Mon, 01 Jan 2024 15:55:56 +0100</pubDate>
       <guid>https://example.org/binaritaet/</guid>
-      <description>binaritaet Es wird nicht unterschieden zwischen &amp;ldquo;Frau&amp;rdquo; und &amp;ldquo;Mann&amp;rdquo; als binäre Kategorien sondern die beiden Adjektive &amp;ldquo;feminin und maskulin&amp;rdquo; verwendet. Dadurch wird die Differenzierung zwischen dem Verhalten und den körperlichen Gegebenheiten sprachlich hervorgehoben – es entsteht ein mehrdimensionales Feld des Ausdrucks.&#xA;Die Betrachtung, das Gender über die Binarität herausgeht und fluide ist, verlang ein Neudenken von Konzepten, Annahmen, Erwartungen und den Aspekten welche unser Zusammenleben und unsere Art zu Kommunizieren beeinflussen.</description>
+      <description>binarität Es wird nicht unterschieden zwischen &amp;ldquo;Frau&amp;rdquo; und &amp;ldquo;Mann&amp;rdquo; als binäre Kategorien sondern die beiden Adjektive &amp;ldquo;feminin und maskulin&amp;rdquo; verwendet. Dadurch wird die Differenzierung zwischen dem Verhalten und den körperlichen Gegebenheiten sprachlich hervorgehoben – es entsteht ein mehrdimensionales Feld des Ausdrucks.&#xA;Die Betrachtung, das Gender über die Binarität herausgeht und fluide ist, verlangt ein Neudenken von Konzepten, Annahmen, Erwartungen und den Aspekten welche unser Zusammenleben und unsere Art zu Kommunizieren beeinflussen.</description>
     </item>
     <item>
       <title>Genderidentity</title>
       <link>https://example.org/genderidentity/</link>
       <pubDate>Mon, 01 Jan 2024 15:55:11 +0100</pubDate>
       <guid>https://example.org/genderidentity/</guid>
-      <description>gender_identity In diesem Sinne bildet das Konzept Genderperformance und die Arbeit von Judith Butler die theoretische Grundlage bzw. eine Erklärung für ein Verhalten das alle Menschen an den Tag legen.&#xA;Durch Aussehen und Handlungen wird dem innere Gefühl ein Ausdruck gegeben, der von aussen als Gender gelesen und interpretiert wird. Judith Butler betont dabei das dies vor allem Performativ ist und dadurch auch fluide.</description>
+      <description>Gender Identity In diesem Sinne bildet das Konzept der Genderperformance und die Arbeit von Judith Butler die theoretische Grundlage bzw. eine Erklärung für ein Verhalten das alle Menschen an den Tag legen.&#xA;Durch Aussehen und Handlungen wird dem innere Gefühl ein Ausdruck gegeben, der von aussen als Gender gelesen und interpretiert wird. Judith Butler betont dabei das dies vor allem Performativ ist und dadurch auch fluide.</description>
     </item>
     <item>
       <title>Fluiditaet</title>
       <link>https://example.org/fluiditaet/</link>
       <pubDate>Mon, 01 Jan 2024 15:54:47 +0100</pubDate>
       <guid>https://example.org/fluiditaet/</guid>
-      <description>fluiditaet Dadurch das anerkannt wird das Gender fluide, und ein gesellschaftliches Konstrukt ist, wird die Binarität der Geschlechter und die daraus folgende Ordnung der Gesellschaft zwangsläufig in Frage gestellt. Die Zugehörigkeit &amp;ldquo;Frau&amp;rdquo; und &amp;ldquo;Mann&amp;rdquo; weicht den begriffen &amp;ldquo;feminin&amp;rdquo; und &amp;ldquo;maskulin&amp;rdquo;, es entsteht ein Spektrum auf dem sich das persönliche Empfinden verordnen lässt. Zugleich entsteht die Möglichkeit die hegemoniale Ordnung in zwei Geschlechter zu stören, zu hinterfragen, zu &amp;ldquo;queeren” durch Verhalten und Ausdruck.</description>
+      <description>fluiditaet Dadurch das anerkannt wird, dass Gender fluide, und ein gesellschaftliches Konstrukt ist, wird die Binarität der Geschlechter und die daraus folgende Ordnung der Gesellschaft zwangsläufig in Frage gestellt. Die Zugehörigkeit &amp;ldquo;Frau&amp;rdquo; und &amp;ldquo;Mann&amp;rdquo; weicht den Begriffen &amp;ldquo;feminin&amp;rdquo; und &amp;ldquo;maskulin&amp;rdquo;, es entsteht ein Spektrum oder viel eher ein Feld auf dem sich das persönliche Empfinden verordnen lässt. Zugleich entsteht die Möglichkeit die hegemoniale Ordnung in zwei Geschlechtern zu stören, zu hinterfragen, zu &amp;ldquo;queeren” durch Verhalten und Ausdruck.</description>
     </item>
     <item>
       <title>Perfomativity</title>
       <link>https://example.org/perfomativity/</link>
       <pubDate>Mon, 01 Jan 2024 15:54:18 +0100</pubDate>
       <guid>https://example.org/perfomativity/</guid>
-      <description>gender performativity Im 1990 erstmals veröffentlichten Buch &amp;ldquo;Gender Trouble&amp;rdquo; erläutert Butler weshalb Gender nicht als einen Ausdruck dessen was Mensch ist interpretiert werden soll, sondern viel mehr als etwas, das Mensch tut. Jedoch nicht im Sinne einer sozialen Auferlegung, sondern viel mehr als eine Art Selbstgestaltung durch die Person als aktives Subjekt.&#xA;We act as if that being of a man or that being of a woman is actually an internal reality or something that&amp;rsquo;s simply true about us, a fact about us.</description>
+      <description>gender performativity Im dem 1990 erstmals veröffentlichten Buch &amp;ldquo;Gender Trouble&amp;rdquo; erläutert Butler weshalb Gender nicht als einen Ausdruck dessen was Mensch ist interpretiert werden soll, sondern viel mehr als etwas, das Mensch tut. Jedoch nicht im Sinne einer sozialen Auferlegung, sondern viel mehr als eine Art Selbstgestaltung durch die Person als aktives Subjekt.&#xA;We act as if that being of a man or that being of a woman is actually an internal reality or something that&amp;rsquo;s simply true about us, a fact about us.</description>
     </item>
     <item>
       <title>Queer</title>
