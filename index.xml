@@ -8,11 +8,18 @@
     <language>en-us</language>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Titelseite</title>
+      <link>https://example.org/titelseite/</link>
+      <pubDate>Fri, 03 May 2024 11:49:45 +0200</pubDate>
+      <guid>https://example.org/titelseite/</guid>
+      <description>Gender in Sound Hannah Dal Cero 6. Semester BA Sound Arts Bern, Mai 2024 Mentorin: Cathy van Eck Zweitleser: Michael Harenberg Einleitung ‎ ‎</description>
+    </item>
+    <item>
       <title>Sexualitaet</title>
       <link>https://example.org/sexualitaet/</link>
       <pubDate>Tue, 20 Feb 2024 16:50:14 +0100</pubDate>
       <guid>https://example.org/sexualitaet/</guid>
-      <description></description>
+      <description>Sexualität ist eng mit dem Konzept der Geschlechtsidentität verbunden. Geschlechtsidentität bezieht sich darauf wie sich Menschen in Bezug auf sich selbst identifizieren, während die Sexualität sich darauf bezieht, zu wem sie sich sexuell hingezogen fühlen. Die Art und Weise wie Menschen ihre Sexualität verstehen wird stark von sozialen und kulturellen Normen, Werten und Erwartungen beeinflusst. Je nach dem wie und ob sich Menschen zu anderen Menschen hingezogen werden wird unterschieden zwischen Homo- und Hetero-sexualität.</description>
     </item>
     <item>
       <title>Heterosexualitaet</title>
@@ -47,7 +54,7 @@
       <link>https://example.org/inhalt/</link>
       <pubDate>Fri, 02 Feb 2024 14:23:23 +0100</pubDate>
       <guid>https://example.org/inhalt/</guid>
-      <description>Inhalt Der Text lässt sich so lesen wie es gefällt und interessiert. Deshalb steht das Inhaltsverzeichnis auch nicht am Anfang.&#xA;persönliches: Ich&#xA;Loslassen&#xA;die Harfe&#xA;meine Arbeit&#xA;der Prozess&#xA;der andere Prozess&#xA;Raum einnehmen&#xA;loslassen&#xA;Hannah_Heartbreak&#xA;theoretisches: Performativity&#xA;Soundstudies&#xA;Sprache und Stimme&#xA;Klang als Medium&#xA;fluiditaet&#xA;binaritaet&#xA;Glossar:\ Gender\&#xA;Sex\&#xA;Queer\&#xA;Trans\&#xA;Judith Butler&#xA;hypertext&#xA;Gender Identity</description>
+      <description>Inhalt Der Text lässt sich so lesen wie es gefällt und interessiert. Deshalb steht das Inhaltsverzeichnis auch nicht am Anfang.&#xA;persönliches: Ich&#xA;Loslassen&#xA;die Harfe&#xA;meine Arbeit&#xA;der Prozess&#xA;der andere Prozess&#xA;Raum einnehmen&#xA;loslassen&#xA;Hannah_Heartbreak&#xA;theoretisches: Soundstudies&#xA;Sprache und Stimme&#xA;Klang als Medium&#xA;fluiditaet&#xA;binaritaet&#xA;Glossar:\ Gender\&#xA;Sex\&#xA;Queer\&#xA;Trans\&#xA;Judith Butler&#xA;hypertext&#xA;Gender Identity</description>
     </item>
     <item>
       <title>Malaherba</title>
@@ -68,7 +75,7 @@
       <link>https://example.org/sprache/</link>
       <pubDate>Mon, 01 Jan 2024 23:05:02 +0100</pubDate>
       <guid>https://example.org/sprache/</guid>
-      <description>Sprache und Stimme Im Buch “Witch-Hunting, Past and Present” beschreibt Silvia Federici anhand des Wortes Gossip wie sich dessen Bedeutung im verlaufe der Zeit verändert hat. Die Veränderung des ursprünglich bestärkenden Beschrieb des “Gossips” über den Zusammenhalt und die Verbundenheit von Frauen über ihre Sprache hin zu einer Abwertung der weiblichen Stimme geht Hand in Hand mit der Verschlechterung der Gesellschaftlichen Stellung der Frau im späteren 16 J.h.&#xA;Gemäss Federici zeigt sich diese Veränderung vor allem auch anhand von den Texten aus Theaterstücken.</description>
+      <description>Sprache und Stimme Als Transperson erlebe ich oft eine merkwürdige Differenz zwischen der Art wie mein Körper gelesen wird und anschliessend meine Stimme eingeordnet wird. Dies sorgt bei Begegnungen oftmals für einen winzigen Moment der Irritation. In mir selbst löst genau dieser Moment eine starke Disphorie, also eine Störung des emotionalen Erlebnis meiner selbst aus. Deshalb möchte ich das Thema Stimme und Sprache kurz anschneiden, im Bewusstsein dass das Thema den Ramen dieser Arbeit sprengt.</description>
     </item>
     <item>
       <title>Judithbutler</title>
@@ -96,7 +103,7 @@
       <link>https://example.org/gender/</link>
       <pubDate>Mon, 01 Jan 2024 16:03:36 +0100</pubDate>
       <guid>https://example.org/gender/</guid>
-      <description>Gender “Gender&amp;quot; bezieht sich auf die sozialen, kulturellen und psychologischen Aspekte von Geschlecht, im Gegensatz zum englischen Wort “sex“, welches sich auf die biologischen Merkmale und Gegebenheiten bezieht.&#xA;Zu welchem Gender sich Personen angezogen fühlen in Relation zum eigenen, lässt wiederum Rückschlüsse auf deren Sexualität zu.</description>
+      <description>Gender “Gender&amp;quot; oder zu deutsch Geschlechtsidentität bezieht sich auf die sozialen, kulturellen und psychologischen Aspekte von Geschlecht, im Gegensatz zum englischen Wort “sex“, welches sich auf die biologischen Merkmale und Gegebenheiten bezieht.&#xA;Zu welchem Gender sich Personen angezogen fühlen in Relation zum eigenen, lässt wiederum Rückschlüsse auf deren Sexualität zu.</description>
     </item>
     <item>
       <title>Hypertext</title>
@@ -138,7 +145,7 @@
       <link>https://example.org/meinearbeit/</link>
       <pubDate>Mon, 01 Jan 2024 16:00:08 +0100</pubDate>
       <guid>https://example.org/meinearbeit/</guid>
-      <description>und meine Arbeit? In den letzten vier Jahren habe ich mich vor allem ausprobiert und viele kleine Projekte angefangen. Einige habe ich mitgenommen, andere sind versandet&amp;hellip; Einige wurden ausserhalb des Schulkontextes gezeigt, andere blieben in diesem Rahmen. Ich bin ja auch noch jung, was es etwas seltsam macht über die letzten Jahre zu schreiben, als wäre ich vierzig. 2021 Herbst&#xA;Saiteninstrument mit Live-Elektronik 2022 Frühling&#xA;CD40106 2022 Herbst&#xA;Amorph - Videoarbeit Silicon Garden 2023 Frühling</description>
+      <description>Meine Arbeit In den letzten vier Jahren habe ich mich vor allem ausprobiert und viele kleine Projekte angefangen. Einige habe ich mitgenommen, andere sind versandet&amp;hellip; Einige wurden ausserhalb des Schulkontextes gezeigt, andere blieben in diesem Rahmen. Ich bin ja auch noch jung, was es etwas seltsam macht über die letzten Jahre zu schreiben, als wäre ich vierzig. Die folgenden Links führen auf externe Seiten&amp;hellip; 2021 Herbst&#xA;Saiteninstrument mit Live-Elektronik 2022 Frühling</description>
     </item>
     <item>
       <title>Loslassen</title>
@@ -222,7 +229,7 @@
       <link>https://example.org/einleitung/</link>
       <pubDate>Mon, 01 Jan 2024 15:45:03 +0100</pubDate>
       <guid>https://example.org/einleitung/</guid>
-      <description>Einleitung wie äussert sich &amp;ldquo;Gender expression&amp;rdquo; in Klang(kunst) Als Transfrau und Klangkünstlerin hat sich mein Bezug und mein Erleben der Gesellschaft durch mein Coming-out nachhaltig verändert. Auch mein Interesse an Klang als künstlerisches und zugleich politisches Medium wurde aufgrund von Begegnungen, Erlebnisse, übergriffiges Verhalten, ein anderes soziales “gelesen” werden und vor allem durch die Auseinandersetzung mit mir und meinem Körper, radikal beeinflusst.&#xA;Viele dieser Prozesse werden vermutlich nie abgeschlossen sein – ein sich ständig veränderndes Umfeld fordert ein ständiges Hinterfragen von Sichtweisen und Perspektiven.</description>
+      <description>wie äussert sich &amp;ldquo;Gender expression&amp;rdquo; in Klang(kunst) Als Transfrau und Klangkünstlerin hat sich mein Bezug und mein Erleben der Gesellschaft durch mein Coming-out nachhaltig verändert. Auch mein Interesse an Klang als künstlerisches und zugleich politisches Medium wurde aufgrund von Begegnungen, Erlebnisse, übergriffiges Verhalten, ein anderes soziales “gelesen” werden und vor allem durch die Auseinandersetzung mit mir und meinem Körper, radikal beeinflusst.&#xA;Viele dieser Prozesse werden vermutlich nie abgeschlossen sein – ein sich ständig veränderndes Umfeld fordert ein ständiges Hinterfragen von Sichtweisen und Perspektiven.</description>
     </item>
   </channel>
 </rss>
