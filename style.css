@@ -19,6 +19,10 @@ body {
     margin-right: 20%;
 }
 
+sup {
+    line-height: 0;
+
+  }
 em {
 
     color: rgb(255, 255, 255);
